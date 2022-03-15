@@ -24,11 +24,11 @@
 
 <br>
 
-<a href="https://github.com/spidirman">
+<a align="center"  href="https://github.com/spidirman">
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=spidirman&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img position="absolute" align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=spidirman&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
 
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spidirman&layout=compact&langs_count=8&theme=react&locale=fr"/>
+  <img position="absolute"  align="center" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spidirman&layout=compact&langs_count=8&theme=react&locale=fr"/>
 
 </a>
 
