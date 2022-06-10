@@ -1,16 +1,17 @@
+<div align="center">
 -----
 
-### <p align="center">🧠 &nbsp;ME</p>
+### <p align="center">social media</p>
 
-  <a href="https://youtube.com/c/leloupalpha">📺 Ma chaîne YouTube 📺</a>
-
-  <br>
-
-  <a href="https://discord.gg/CURjqNd6rs">    💬 Mon serveur Discord (deleted)💬</a>
+  <a href="https://youtube.com/c/leloupalpha">youtube channel</a>
 
   <br>
 
-  <a href="https://discord.com/api/oauth2/authorize?client_id=838405549510230026&permissions=8&scope=bot">☢ Mon Bot Discord ☢(deleted)</a>
+  <a href="https://discord.gg/CURjqNd6rs">Discord (deleted)</a>
+
+  <br>
+
+  <a href="https://discord.com/api/oauth2/authorize?client_id=838405549510230026&permissions=8&scope=bot">Discord Bot(deleted)</a>
 
   <br>
 
@@ -38,7 +39,7 @@
 
 -----
 
-### <p align="center">👀 &nbsp;Visiteurs</p>
+### <p>Visitor</p>
 
 <br>
 
@@ -52,3 +53,4 @@
 
 -----
 
+</div>
