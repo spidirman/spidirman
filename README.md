@@ -22,7 +22,7 @@
 
 -----
 
-### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
+### <p align="center">STATISTICS</p>
 
 <br>
 
