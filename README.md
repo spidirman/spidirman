@@ -6,13 +6,16 @@
 
   <a href="https://youtube.com/c/leloupalpha">youtube channel</a>
 
+  <br>  
+  <a href="https://popcord.github.io/">website</a>
+
   <br>
 
-  <a href="https://discord.gg/CURjqNd6rs">Discord (deleted)</a>
+  <a href="https://discord.gg/U3u5EyrgTD">Discord (deleted)</a>
 
   <br>
 
-  <a href="https://discord.com/api/oauth2/authorize?client_id=838405549510230026&permissions=8&scope=bot">Discord Bot(deleted)</a>
+  <a href="https://discord.com/oauth2/authorize?client_id=994970912271122452&permissions=1644971949567&redirect_uri=https%3A%2F%2Fdiscord.gg%2FU3u5EyrgTD&response_type=code&scope=bot%20guilds.join">Discord Bot</a>
 
   <br>
 
