@@ -7,7 +7,7 @@
 [![my website](https://img.shields.io/badge/website-popcord-FF97FF?style=for-the-badge&logo=HTML5&logoColor=FF97FF)](https://popcord.github.io)
 [![bot on Discord](https://img.shields.io/badge/discord%20bot-popcord%20bot-5865F2?style=for-the-badge&logo=RobotFramework)](https://discord.com/oauth2/authorize?client_id=994970912271122452&permissions=1644971949567&redirect_uri=https%3A%2F%2Fdiscord.gg%2FU3u5EyrgTD&response_type=code&scope=bot%20guilds.join)
 <br>
-![Join PopCord support](https://discordapp.com/api/guilds/911936163395301379/widget.png?style=banner2&t=1659402554202)
+[![Chat on Discord](https://img.shields.io/badge/discord-.gg%2Fpopcord-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/U3u5EyrgTD)
   <br>
 
 </p>
