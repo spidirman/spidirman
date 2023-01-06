@@ -32,6 +32,19 @@
 </p>
 
 -----
+<h1 align="center" color="#FF8706">My Stats
+</h1>
+<p align="center">
+![spidirman's GitHub stats](https://github-readme-stats.vercel.app/api?username=spidirman&count_private=true&show_icons=true&theme=tokyonight)
+
+![spidirman's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=spidirman&theme=tokyonight)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=spidirman&theme=onedark_duo&date_format=j%20M%5B%20Y%5D)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spidirman&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spidirman&theme=tokyonight&utcOffset=8)
+</p>
 
 ### <p>Visitor</p>
 
