@@ -37,7 +37,7 @@
 
 <p align="center">
 
-  <img src="https://profile-counter.glitch.me/le-loup-alpha/count.svg" />
+  <img src="https://profile-counter.glitch.me/spidirman/count.svg" />
 
 </p>
 
